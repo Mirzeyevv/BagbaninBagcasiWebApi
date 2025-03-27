@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj",
         "projectName": "BagbaninBagcasi.WebApi",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\BagbaninBagcasi.WebApi.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BagbaninBagcasi.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj"
               }
             }
           }
@@ -137,6 +137,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -157,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj",
         "projectName": "DAL.SqlServer",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\DAL.SqlServer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\DAL.SqlServer\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -185,8 +199,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\Domain.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -242,14 +256,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\Domain.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

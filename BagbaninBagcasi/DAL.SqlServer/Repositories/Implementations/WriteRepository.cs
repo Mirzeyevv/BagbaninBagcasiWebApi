@@ -31,9 +31,10 @@ public class WriteRepository<T> : IWriteRepository<T> where T : BaseEntity, new(
         Table.Remove(entity);
     }
 
-    public async Task SaveAsync()
+    public async Task<int> SaveAsync()
     {
-        await _context.SaveChangesAsync();
+        var result = await _context.SaveChangesAsync();
+        return result;
     }
 
 

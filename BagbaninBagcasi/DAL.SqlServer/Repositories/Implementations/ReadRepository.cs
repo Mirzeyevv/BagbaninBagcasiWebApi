@@ -21,7 +21,7 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
 
     public DbSet<T> Table => _context.Set<T>();
 
-    public IQueryable<T> GetAll(bool isTracking = true, params string[] includes)
+    public async Task<ICollection<T>> GetAllAsync(bool isTracking = true, params string[] includes)
     {
         var query = Table.AsQueryable();
         if (!isTracking)
@@ -37,12 +37,12 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
             }
         }
 
-        return query;
+        return await query.ToListAsync();
     }
 
-    public IQueryable<T> GetByCondition(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] includes)
+    public IQueryable<T> GetAllByCondition(Expression<Func<T, bool>> condition, bool isTracking = true, params string[] includes)
     {
-        var query = Table.Where(expression).AsQueryable();
+        var query = Table.Where(condition).AsQueryable();
         if (!isTracking)
         {
             query.AsNoTracking();
@@ -59,9 +59,9 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
         return query;
     }
 
-    public IQueryable<T> GetByCondition(Expression<Func<T, bool>> expression, int page, int size, bool isTracking = true, params string[] includes)
+    public IQueryable<T> GetAllByCondition(Expression<Func<T, bool>> condition, int page, int size, bool isTracking = true, params string[] includes)
     {
-        var query = Table.Where(expression).Skip(page * size).Take(size);
+        var query = Table.Where(condition).Skip(page * size).Take(size);
         if (!isTracking)
         {
             query.AsNoTracking();
@@ -78,7 +78,27 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
         return query;
     }
 
-    public async Task<T> GetSingleByConditionAsync(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] includes)
+    public async Task<T> GetByIdAsync(Guid id, bool isTracking = true, params string[] includes)
+    {
+        var query = Table.AsQueryable();
+
+        if (!isTracking)
+        {
+            query.AsNoTracking();
+        }
+
+        if (includes is not null && includes.Length > 0)
+        {
+            foreach (var include in includes)
+            {
+                query = query.Include(include);
+            }
+        }
+        T? entity = await query.FirstOrDefaultAsync(t => t.Id == id);
+        return entity;
+    }
+
+    public async Task<T> GetOneByCondition(Expression<Func<T, bool>> condition, bool isTracking = true, params string[] includes)
     {
         var query = Table.AsQueryable();
         if (!isTracking)
@@ -93,29 +113,14 @@ public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity, new()
                 query = query.Include(include);
             }
         }
-        T? entity = await query.FirstOrDefaultAsync(expression);
+        T? entity = await query.FirstOrDefaultAsync(condition);
         return entity;
     }
 
-    public async Task<T> GetByIdAsync(Guid id, params string[] includes)
+    public async Task<bool> IsExist(Guid id)
     {
-        var query = Table.AsQueryable();
-        if (includes is not null && includes.Length > 0)
-        {
-            foreach (var include in includes)
-            {
-                query = query.Include(include);
-            }
-        }
-        T? entity = await query.FirstOrDefaultAsync(t => t.Id == id);
-        return entity;
+        await Table.AnyAsync(x => x.Id == id);
+        return true;
     }
-
-    public async Task<int> GetDataCountAsync()
-    {
-        int count = await Table.CountAsync();
-        return count;
-    }
-
 
 }

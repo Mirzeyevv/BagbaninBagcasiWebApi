@@ -1,102 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\saledtos\\saleputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\saledtos\\saleputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\saledtos\\salegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\saledtos\\salegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\isaleproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\isaleproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\saledtos\\salepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\saledtos\\salepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\productdtos\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\iflowertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\iflowertypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\productdtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\productdtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\iexpensetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\iexpensetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\productdtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\productdtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\idebtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\idebtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\customerdtos\\customerpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\customerdtos\\customerpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\debtdtos\\debtpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\debtdtos\\debtpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensedtos\\expensepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensedtos\\expensepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensetypedtos\\expensetypepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensetypedtos\\expensetypepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\flowertypedtos\\flowertypepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\flowertypedtos\\flowertypepostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensetypedtos\\expensetypegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensetypedtos\\expensetypegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\flowertypedtos\\flowertypegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\flowertypedtos\\flowertypegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\flowertypedtos\\flowertypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\flowertypedtos\\flowertypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensetypedtos\\expensetypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensetypedtos\\expensetypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensedtos\\expenseputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensedtos\\expenseputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\expensedtos\\expensegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\expensedtos\\expensegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\customerdtos\\customergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\customerdtos\\customergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\debtdtos\\debtgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\debtdtos\\debtgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\debtdtos\\debtputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\debtdtos\\debtputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\customerdtos\\customerputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\customerdtos\\customerputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\step\\aspnet\\web api\\hws\\restaurant-management-hw\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\repositories\\implementations\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\repositories\\implementations\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,313 +67,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SalePutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ISaleService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ISaleService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\ISaleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:39:32.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalePostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\SaleDTOs\\SalePostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\SaleDTOs\\SalePostDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:37:08.195Z",
+              "WhenOpened": "2025-03-26T17:48:10.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SaleGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SaleGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\SaleDTOs\\SaleGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SaleGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\SaleDTOs\\SaleGetDTO.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAywBwAAAAAAAAAAAAAAA==",
+              "Title": "ISaleProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ISaleProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\ISaleProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ISaleProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\ISaleProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:37:01.604Z",
+              "WhenOpened": "2025-03-26T17:47:40.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:36:45.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:36:38.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FlowerTypeGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypeGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypeGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypeGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypeGetDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:36:16.736Z",
+              "WhenOpened": "2025-03-26T17:47:07.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ProductDTOs\\ProductGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ProductDTOs\\ProductGetDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvx4AAAArAAAAAAAAAA==",
+              "Title": "IFlowerTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IFlowerTypeService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\IFlowerTypeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IFlowerTypeService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\IFlowerTypeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:36:10.811Z",
+              "WhenOpened": "2025-03-26T17:46:32.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FlowerTypePutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IExpenseTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IExpenseTypeService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\IExpenseTypeService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IExpenseTypeService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\IExpenseTypeService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:35:50.709Z",
+              "WhenOpened": "2025-03-26T17:46:00.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FlowerTypePostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\FlowerTypeDTOs\\FlowerTypePostDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IExpenseService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:35:40.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExpenseTypePutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:35:13.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ExpenseTypePostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypePostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:34:59.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ExpensePutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:34:10.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ExpenseTypeGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypeGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypeGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypeGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseTypeDTOs\\ExpenseTypeGetDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:33:07.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExpensePostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpensePostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:32:52.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DebtGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\DebtDTOs\\DebtGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\DebtDTOs\\DebtGetDTO.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:32:37.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ExpenseGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpenseGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpenseGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ExpenseDTOs\\ExpenseGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ExpenseDTOs\\ExpenseGetDTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:32:31.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DebtPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\DebtDTOs\\DebtPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\DebtDTOs\\DebtPutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:31:55.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DebtPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\DebtDTOs\\DebtPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\DebtDTOs\\DebtPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\DebtDTOs\\DebtPostDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:27:13.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:26:10.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerPostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:25:03.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CustomerDTOs\\CustomerGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CustomerDTOs\\CustomerGetDTO.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:22:58.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CategoryPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:21:22.311Z",
+              "WhenOpened": "2025-03-26T17:34:35.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CategoryPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "IDebtService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IDebtService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\IDebtService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\IDebtService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\IDebtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:19:45.316Z",
+              "WhenOpened": "2025-03-26T17:34:01.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Step\\ASPNet\\Web api\\HWs\\Restaurant-Management-HW\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ICustomerService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T00:19:32.215Z",
+              "WhenOpened": "2025-03-26T17:33:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:16:54.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Implementations\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Repositories\\Implementations\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Implementations\\WriteRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Repositories\\Implementations\\WriteRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:13:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:13:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:07:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:04:33.685Z",
               "EditorCaption": ""
             },
             {
