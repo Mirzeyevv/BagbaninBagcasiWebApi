@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer.Services.Implementations
+namespace BusinessLayer.Validators.ExpenseTypeValidators
 {
-    internal class ExpenseServiceType
+    internal class ExpenseTypeGetDTOValidator
     {
     }
 }

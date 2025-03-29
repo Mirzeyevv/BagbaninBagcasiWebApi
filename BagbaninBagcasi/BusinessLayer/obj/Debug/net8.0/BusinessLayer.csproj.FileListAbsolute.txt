@@ -15,3 +15,21 @@ C:\Users\Lenovo\Desktop\Step\ASPNet\Web api\HWs\Restaurant-Management-HW\Bagbani
 C:\Users\Lenovo\Desktop\Step\ASPNet\Web api\HWs\Restaurant-Management-HW\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Users\Lenovo\Desktop\Step\ASPNet\Web api\HWs\Restaurant-Management-HW\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\Lenovo\Desktop\Step\ASPNet\Web api\HWs\Restaurant-Management-HW\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\DAL.SqlServer.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\Domain.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\DAL.SqlServer.pdb
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\bin\Debug\net8.0\Domain.pdb
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

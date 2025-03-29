@@ -62,7 +62,7 @@ namespace DAL.SqlServer.Migrations
                     b.Property<decimal>("DebtAmount")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -111,7 +111,7 @@ namespace DAL.SqlServer.Migrations
                     b.Property<Guid>("CustomerId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -128,6 +128,9 @@ namespace DAL.SqlServer.Migrations
 
                     b.Property<string>("LastModifiedBy")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("PaidAmount")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
@@ -158,7 +161,7 @@ namespace DAL.SqlServer.Migrations
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -230,7 +233,7 @@ namespace DAL.SqlServer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -281,7 +284,7 @@ namespace DAL.SqlServer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -345,7 +348,7 @@ namespace DAL.SqlServer.Migrations
                     b.Property<Guid?>("CustomerId")
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("DeletedBy")
@@ -538,13 +541,13 @@ namespace DAL.SqlServer.Migrations
                         {
                             Id = "c10c9801-9957-4018-8e48-0c7812d47b50",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "f4bd4285-ea83-4237-be94-d41ef3471bdb",
+                            ConcurrencyStamp = "5b445553-2033-4fd5-8144-b8131d3ac86a",
                             EmailConfirmed = false,
                             LockoutEnabled = false,
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAIAAYagAAAAEF+MDo5RjPrCno8t8TOeFNk5FUinfbj+VECdSngW4nklr2FYEcmtp6bQVbaJGwKj4Q==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEAsZsKxRFk8rY467Wbgc+ynHVlwT/9mGajIMomnDMBhSvyTrlhb6jJyWl8acpcqLng==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "1bd66a06-f4be-47ec-93e7-662d84fbf60e",
+                            SecurityStamp = "efc7e6d4-c93b-4d0f-b59f-f058e261ff7b",
                             TwoFactorEnabled = false,
                             UserName = "admin"
                         });
