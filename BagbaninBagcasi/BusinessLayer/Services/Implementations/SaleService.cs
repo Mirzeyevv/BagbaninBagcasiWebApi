@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using BusinessLayer.DTOs.SaleDTOs;
+using BusinessLayer.Services.Abstractions;
 using DAL.SqlServer.Repositories.Abstractions;
 using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer.Services.Implementations;
 
-public class SaleService
+public class SaleService : ISaleService
 {
     private readonly ISaleReadRepository _saleReadRepository;
     private readonly ISaleWriteRepository _saleWriteRepository;

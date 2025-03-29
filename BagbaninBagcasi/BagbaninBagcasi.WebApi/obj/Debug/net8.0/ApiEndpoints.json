@@ -1,1 +1,1153 @@
-[]
+[
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "Create",
+    "RelativePath": "api/Categories/CreateCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryPostDTO",
+        "Type": "BusinessLayer.DTOs.CategoryDTOs.CategoryPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "Delete",
+    "RelativePath": "api/Categories/DeleteCategory",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Categories/GetAllActiveCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Categories/GetAllSoftDeletedCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "GetById",
+    "RelativePath": "api/Categories/GetCategoryById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "Restore",
+    "RelativePath": "api/Categories/RestoreCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Categories/SoftDeleteCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CategoriesController",
+    "Method": "Update",
+    "RelativePath": "api/Categories/UpdateCategory",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryPutDTO",
+        "Type": "BusinessLayer.DTOs.CategoryDTOs.CategoryPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "Create",
+    "RelativePath": "api/Customers/CreateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerPostDTO",
+        "Type": "BusinessLayer.DTOs.CustomerDTOs.CustomerPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "Delete",
+    "RelativePath": "api/Customers/DeleteCustomer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Customers/GetAllActiveCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Customers/GetAllSoftDeletedCustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "GetById",
+    "RelativePath": "api/Customers/GetCustomerById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "Restore",
+    "RelativePath": "api/Customers/RestoreCustomer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Customers/SoftDeleteCustomer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.CustomersController",
+    "Method": "Update",
+    "RelativePath": "api/Customers/UpdateCustomer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerPutDTO",
+        "Type": "BusinessLayer.DTOs.CustomerDTOs.CustomerPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "Create",
+    "RelativePath": "api/Debts/CreateDebt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "debtPostDTO",
+        "Type": "BusinessLayer.DTOs.DebtDTOs.DebtPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "Delete",
+    "RelativePath": "api/Debts/DeleteDebt",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Debts/GetAllActiveDebts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Debts/GetAllSoftDeletedDebts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "GetById",
+    "RelativePath": "api/Debts/GetDebtById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "Restore",
+    "RelativePath": "api/Debts/RestoreDebt",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Debts/SoftDeleteDebt",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.DebtsController",
+    "Method": "Update",
+    "RelativePath": "api/Debts/UpdateDebt",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "debtPutDTO",
+        "Type": "BusinessLayer.DTOs.DebtDTOs.DebtPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "Create",
+    "RelativePath": "api/Expenses/CreateExpense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expensePostDTO",
+        "Type": "BusinessLayer.DTOs.ExpenseDTOs.ExpensePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "Delete",
+    "RelativePath": "api/Expenses/DeleteExpense",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Expenses/GetAllActiveExpenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Expenses/GetAllSoftDeletedExpenses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "GetById",
+    "RelativePath": "api/Expenses/GetExpenseById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "Restore",
+    "RelativePath": "api/Expenses/RestoreExpense",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Expenses/SoftDeleteExpense",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpensesController",
+    "Method": "Update",
+    "RelativePath": "api/Expenses/UpdateExpense",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expensePutDTO",
+        "Type": "BusinessLayer.DTOs.ExpenseDTOs.ExpensePutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "Create",
+    "RelativePath": "api/ExpenseTypes/CreateExpenseType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expenseTypePostDTO",
+        "Type": "BusinessLayer.DTOs.ExpenseTypeDTOs.ExpenseTypePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "Delete",
+    "RelativePath": "api/ExpenseTypes/DeleteExpenseType",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/ExpenseTypes/GetAllActiveExpenseTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/ExpenseTypes/GetAllSoftDeletedExpenseTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "GetById",
+    "RelativePath": "api/ExpenseTypes/GetExpenseTypeById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "Restore",
+    "RelativePath": "api/ExpenseTypes/RestoreExpenseType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/ExpenseTypes/SoftDeleteExpenseType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ExpenseTypesController",
+    "Method": "Update",
+    "RelativePath": "api/ExpenseTypes/UpdateExpenseType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "expenseTypePutDTO",
+        "Type": "BusinessLayer.DTOs.ExpenseTypeDTOs.ExpenseTypePutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "Create",
+    "RelativePath": "api/FlowerTypes/CreateFlowerType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flowerTypePostDTO",
+        "Type": "BusinessLayer.DTOs.FlowerTypeDTOs.FlowerTypePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "Delete",
+    "RelativePath": "api/FlowerTypes/DeleteFlowerType",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/FlowerTypes/GetAllActiveFlowerTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/FlowerTypes/GetAllSoftDeletedFlowerTypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "GetById",
+    "RelativePath": "api/FlowerTypes/GetFlowerTypeById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "Restore",
+    "RelativePath": "api/FlowerTypes/RestoreFlowerType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/FlowerTypes/SoftDeleteFlowerType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.FlowerTypesController",
+    "Method": "Update",
+    "RelativePath": "api/FlowerTypes/UpdateFlowerType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flowerTypePutDTO",
+        "Type": "BusinessLayer.DTOs.FlowerTypeDTOs.FlowerTypePutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.IdentityController",
+    "Method": "Login",
+    "RelativePath": "api/Identity/LoginIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "BusinessLayer.DTOs.IdentityDTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.IdentityController",
+    "Method": "Register",
+    "RelativePath": "api/Identity/RegisterIdentity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDTO",
+        "Type": "BusinessLayer.DTOs.IdentityDTOs.RegisterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "Create",
+    "RelativePath": "api/Products/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FlowerTypeId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Quantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Discount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExpiryDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "Delete",
+    "RelativePath": "api/Products/DeleteProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Products/GetAllActiveProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Products/GetAllSoftDeletedProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "GetById",
+    "RelativePath": "api/Products/GetProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "Restore",
+    "RelativePath": "api/Products/RestoreProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Products/SoftDeleteProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.ProductsController",
+    "Method": "Update",
+    "RelativePath": "api/Products/UpdateProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FlowerTypeId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "CategoryId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Quantity",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Discount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExpiryDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ImageUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "Create",
+    "RelativePath": "api/SaleProducts/CreateSaleProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "saleProductPostDTO",
+        "Type": "BusinessLayer.DTOs.SaleProductDTOs.SaleProductPostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "Delete",
+    "RelativePath": "api/SaleProducts/DeleteSaleProduct",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/SaleProducts/GetAllActiveSaleProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/SaleProducts/GetAllSoftDeletedSaleProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "GetById",
+    "RelativePath": "api/SaleProducts/GetSaleProductById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "Restore",
+    "RelativePath": "api/SaleProducts/RestoreSaleProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/SaleProducts/SoftDeleteSaleProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SaleProductsController",
+    "Method": "Update",
+    "RelativePath": "api/SaleProducts/UpdateSaleProduct",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "saleProductPutDTO",
+        "Type": "BusinessLayer.DTOs.SaleProductDTOs.SaleProductPutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "Create",
+    "RelativePath": "api/Sales/CreateSale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salePostDTO",
+        "Type": "BusinessLayer.DTOs.SaleDTOs.SalePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "Delete",
+    "RelativePath": "api/Sales/DeleteSale",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "GetAllActive",
+    "RelativePath": "api/Sales/GetAllActiveSales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "GetAllSoftDeleted",
+    "RelativePath": "api/Sales/GetAllSoftDeletedSales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "GetById",
+    "RelativePath": "api/Sales/GetSaleById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "Restore",
+    "RelativePath": "api/Sales/RestoreSale",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Sales/SoftDeleteSale",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BagbaninBagcasi.WebApi.Controllers.SalesController",
+    "Method": "Update",
+    "RelativePath": "api/Sales/UpdateSale",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "salePutDTO",
+        "Type": "BusinessLayer.DTOs.SaleDTOs.SalePutDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

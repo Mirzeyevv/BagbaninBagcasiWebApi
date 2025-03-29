@@ -335,3 +335,4 @@ C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BagbaninBagcasi.WebA
 C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BagbaninBagcasi.WebApi\obj\Debug\net8.0\BagbaninBagcasi.WebApi.pdb
 C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BagbaninBagcasi.WebApi\obj\Debug\net8.0\BagbaninBagcasi.WebApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BagbaninBagcasi.WebApi\obj\Debug\net8.0\ref\BagbaninBagcasi.WebApi.dll
+C:\Users\Lenovo\Desktop\BagbaninBagcasiRepo\BagbaninBagcasi\BagbaninBagcasi.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

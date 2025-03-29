@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BagbaninBagcasi.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c4748b42bf9e4be2320dd061bf6c373dc20678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90f5b3d3ed16c447f9ca15a96db420f9832909e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BagbaninBagcasi.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BagbaninBagcasi.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

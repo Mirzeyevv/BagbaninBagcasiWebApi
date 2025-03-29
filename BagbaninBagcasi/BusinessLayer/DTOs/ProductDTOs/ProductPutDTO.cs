@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,6 @@ public class ProductPutDTO
     public int Quantity { get; set; }
     public decimal Discount { get; set; }
     public DateTime? ExpiryDate { get; set; }
-    public string ImageUrl { get; set; } = string.Empty;
+    public IFormFile ImageUrl { get; set; }
 
 }

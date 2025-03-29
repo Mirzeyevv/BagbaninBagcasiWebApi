@@ -10,7 +10,6 @@ namespace BusinessLayer.DTOs.CategoryDTOs;
 public class CategoryPostDTO
 {
     public string Title { get; set; }
-    public IFormFile Image { get; set; }
     public string Description { get; set; } = string.Empty;
 
 }

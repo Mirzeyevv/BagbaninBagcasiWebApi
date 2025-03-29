@@ -1,9 +1,10 @@
+using BusinessLayer;
 using DAL.SqlServer;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.RegisterDAL(builder.Configuration);
-
+builder.Services.AddBlServices(builder.Configuration);
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
@@ -19,6 +20,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

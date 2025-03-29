@@ -1,12 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BusinessLayer.DTOs.SaleProductDTOs;
+using FluentValidation;
 
-namespace BusinessLayer.Validators.SaleProductValidators
+
+namespace BusinessLayer.Validators.SaleProductValidators;
+
+
+public class SaleProductPostDTOValidator : AbstractValidator<SaleProductPostDTO>
 {
-    internal class SaleProductPostDTOValidator
+    public SaleProductPostDTOValidator()
     {
+        RuleFor(x => x.ProductId)
+            .NotEmpty().WithMessage("Product ID is required.");
+
+        RuleFor(x => x.Quantity)
+            .GreaterThan(0).WithMessage("Quantity must be greater than zero.");
+
+        RuleFor(x => x.SaleId)
+            .NotEmpty().WithMessage("Sale ID is required.");
     }
 }
+
