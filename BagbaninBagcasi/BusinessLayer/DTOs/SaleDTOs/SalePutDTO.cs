@@ -13,4 +13,5 @@ public class SalePutDTO
     public string UserId { get; set; }
     public Guid? CustomerId { get; set; }
     public PaymentType PaymentType { get; set; }
+
 }

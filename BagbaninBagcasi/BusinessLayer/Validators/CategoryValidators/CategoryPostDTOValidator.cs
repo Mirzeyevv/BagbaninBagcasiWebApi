@@ -9,7 +9,7 @@ namespace BusinessLayer.Validators.CategoryValidators;
 public class CategoryPostDTOValidator : AbstractValidator<CategoryPostDTO>
 {
     private readonly string[] _permittedExtensions = { ".jpg", ".jpeg", ".png", ".gif", ".webp" };
-    private const long MaxFileSizeInBytes = 2 * 1024 * 1024; // 2 MB
+    private const long MaxFileSizeInBytes = 2 * 1024 * 1024; 
 
     public CategoryPostDTOValidator()
     {

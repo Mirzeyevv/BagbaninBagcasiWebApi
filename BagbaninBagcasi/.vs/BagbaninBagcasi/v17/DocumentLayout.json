@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\validators\\productvalidators\\productpostdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\productvalidators\\productpostdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\saledtos\\saleputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\saledtos\\saleputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\configurations\\flowertypeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\configurations\\flowertypeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\validators\\productvalidators\\productputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\productvalidators\\productputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\domain\\entities\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\flowertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\productdtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\productdtos\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\domain\\enums\\growthtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\growthtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\productdtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\productdtos\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\domain\\enums\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E62C89B-652B-4BD9-BE4E-F1571F74BC1D}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\validators\\categoryvalidators\\categoryputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\categoryvalidators\\categoryputdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\validators\\categoryvalidators\\categorypostdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validators\\categoryvalidators\\categorypostdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\businesslayer\\dtos\\categorydtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E389FE3-8470-4297-A6B2-65B3EA63D68C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dtos\\categorydtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\lenovo\\desktop\\bagbaninbagcasirepo\\bagbaninbagcasi\\dal.sqlserver\\repositories\\implementations\\category\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B98E88F-E9BD-4C1F-ABD3-78EC82C31433}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\repositories\\implementations\\category\\categorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,101 +46,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250405195903_AddFlowerTypeEnumFields.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Migrations\\20250405195903_AddFlowerTypeEnumFields.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:59:03.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Title": "SalePutDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
+              "RelativeToolTip": "BusinessLayer\\DTOs\\SaleDTOs\\SalePutDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:07:44.857Z",
+              "WhenOpened": "2025-04-05T19:55:31.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductPutDTOValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\ProductValidators\\ProductPutDTOValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Validators\\ProductValidators\\ProductPutDTOValidator.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\ProductValidators\\ProductPutDTOValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\Validators\\ProductValidators\\ProductPutDTOValidator.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCcAAAAIAAAAAAAAAA==",
+              "Title": "FlowerType.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Entities\\FlowerType.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FlowerType.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Entities\\FlowerType.cs",
+              "RelativeToolTip": "Domain\\Entities\\FlowerType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:06:11.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductPostDTOValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\ProductValidators\\ProductPostDTOValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Validators\\ProductValidators\\ProductPostDTOValidator.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\ProductValidators\\ProductPostDTOValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\Validators\\ProductValidators\\ProductPostDTOValidator.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:05:55.907Z",
+              "WhenOpened": "2025-04-05T19:54:23.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPutDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "GrowthType.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Enums\\GrowthType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\GrowthType.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Enums\\GrowthType.cs",
+              "RelativeToolTip": "Domain\\Enums\\GrowthType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:03:53.136Z",
+              "WhenOpened": "2025-04-05T19:53:27.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProductPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\ProductDTOs\\ProductPostDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Enums\\Season.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Season.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\Domain\\Enums\\Season.cs",
+              "RelativeToolTip": "Domain\\Enums\\Season.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:03:34.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "BusinessLayer\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:55:24.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryPutDTOValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\CategoryValidators\\CategoryPutDTOValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Validators\\CategoryValidators\\CategoryPutDTOValidator.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\CategoryValidators\\CategoryPutDTOValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\Validators\\CategoryValidators\\CategoryPutDTOValidator.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:54:33.304Z",
+              "WhenOpened": "2025-04-05T19:52:53.663Z",
               "EditorCaption": ""
             },
             {
@@ -159,49 +121,53 @@
               "RelativeDocumentMoniker": "BusinessLayer\\Validators\\CategoryValidators\\CategoryPostDTOValidator.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\Validators\\CategoryValidators\\CategoryPostDTOValidator.cs",
               "RelativeToolTip": "BusinessLayer\\Validators\\CategoryValidators\\CategoryPostDTOValidator.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:54:23.306Z",
+              "WhenOpened": "2025-04-05T19:44:10.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryPutDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPutDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:52:35.604Z",
+              "WhenOpened": "2025-04-05T19:42:40.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FlowerTypeConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Configurations\\FlowerTypeConfigurations.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Configurations\\FlowerTypeConfigurations.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Configurations\\FlowerTypeConfigurations.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Configurations\\FlowerTypeConfigurations.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:52:26.146Z",
+              "WhenOpened": "2025-04-05T19:41:06.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CategoryGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeToolTip": "BusinessLayer\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Title": "CategoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Implementations\\Category\\CategoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "DAL.SqlServer\\Repositories\\Implementations\\Category\\CategoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\BagbaninBagcasiRepo\\BagbaninBagcasi\\DAL.SqlServer\\Repositories\\Implementations\\Category\\CategoryWriteRepository.cs",
+              "RelativeToolTip": "DAL.SqlServer\\Repositories\\Implementations\\Category\\CategoryWriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T21:52:15.153Z",
+              "WhenOpened": "2025-04-05T19:38:27.825Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },

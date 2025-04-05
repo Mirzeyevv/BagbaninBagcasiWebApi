@@ -5,7 +5,7 @@ using Domain.Entities;
 
 namespace DAL.SqlServer.Repositories.Implementations;
 
-internal class CategoryWriteRepository : WriteRepository<Category>, ICategoryWriteRepository
+public class CategoryWriteRepository : WriteRepository<Category>, ICategoryWriteRepository
 {
     public CategoryWriteRepository(AppDbContext context) : base(context)
     {
