@@ -28,18 +28,18 @@ public class IdentityService : IIdentityService
         _mapper = mapper;
     }
 
-    public async Task<bool> RegisterAsync(RegisterDTO registerDTO)
+    public async Task<string> RegisterAsync(RegisterDTO registerDTO)
     {
         var newUser = _mapper.Map<IdentityUser>(registerDTO);
 
         var result = await _userManager.CreateAsync(newUser, registerDTO.Password);
         await _userManager.AddToRoleAsync(newUser, "Worker");
-        if (!result.Succeeded) return false;
+        if (!result.Succeeded) return null;
 
         
         string userToken = await _userManager.GenerateEmailConfirmationTokenAsync(newUser);
         
-        return true;
+        return userToken;
     }
 
 

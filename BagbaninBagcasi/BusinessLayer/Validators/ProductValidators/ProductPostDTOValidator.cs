@@ -18,7 +18,10 @@ public class ProductPostDTOValidator : AbstractValidator<ProductPostDTO>
         RuleFor(x => x.CategoryId)
             .NotEmpty().WithMessage("Category ID is required.");
 
-        RuleFor(x => x.Price)
+        RuleFor(x => x.SellingPrice)
+            .GreaterThan(0).WithMessage("Price must be greater than zero.");
+
+        RuleFor(x => x.BuyingPrice)
             .GreaterThan(0).WithMessage("Price must be greater than zero.");
 
         RuleFor(x => x.Quantity)

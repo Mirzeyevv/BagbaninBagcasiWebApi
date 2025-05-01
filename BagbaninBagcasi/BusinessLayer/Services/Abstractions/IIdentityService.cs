@@ -12,7 +12,7 @@ namespace BusinessLayer.Services.Abstractions;
 
 public interface IIdentityService
 {
-    Task<bool> RegisterAsync(RegisterDTO registerDto);
+    Task<string> RegisterAsync(RegisterDTO registerDto);
     Task<string> LoginAsync(LoginDTO loginDto);
     Task<bool> LogoutAsync();
    

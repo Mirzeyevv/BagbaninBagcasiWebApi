@@ -2126,12 +2126,18 @@
             "type": "string",
             "nullable": true
           },
-          "season": {
-            "type": "string",
+          "seasons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Season"
+            },
             "nullable": true
           },
-          "growthType": {
-            "type": "string",
+          "growthTypes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GrowthType"
+            },
             "nullable": true
           },
           "products": {
@@ -2198,6 +2204,14 @@
           }
         },
         "additionalProperties": false
+      },
+      "GrowthType": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
       },
       "LoginDTO": {
         "type": "object",
@@ -2405,6 +2419,16 @@
           }
         },
         "additionalProperties": false
+      },
+      "Season": {
+        "enum": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "type": "integer",
+        "format": "int32"
       }
     }
   }

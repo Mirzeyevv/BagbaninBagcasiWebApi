@@ -46,6 +46,7 @@ public class JwtTokenService : IJwtTokenService
             expires: DateTime.Now.AddHours(1)
         );
 
-        return new JwtSecurityTokenHandler().WriteToken(securityToken);
+        var a = new JwtSecurityTokenHandler().WriteToken(securityToken);
+        return a;
     }
 }

@@ -24,8 +24,8 @@ namespace BagbaninBagcasi.WebApi.Controllers
         {
             try
             {
-                await _identityService.RegisterAsync(registerDTO);
-                return Ok();
+                var a = await _identityService.RegisterAsync(registerDTO);
+                return Ok(a);
             }
             catch (Exception ex)
             {

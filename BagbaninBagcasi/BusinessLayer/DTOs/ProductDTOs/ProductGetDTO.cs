@@ -22,7 +22,8 @@ public class ProductGetDTO
     public string Name { get; set; }
     public Guid? FlowerTypeId { get; set; }
     public Guid CategoryId { get; set; }
-    public decimal Price { get; set; }
+    public decimal SellingPrice { get; set; }
+    public decimal BuyingPrice { get; set; }
     public int Quantity { get; set; }
     public decimal Discount { get; set; }
     public DateTime? ExpiryDate { get; set; }
